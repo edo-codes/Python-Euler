@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 def fib(highest):
    x = 1
    y = 1
