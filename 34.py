@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
-# What a lame problem. It only generated two numbers in under a minute and
-# their sum turned out to be the answer. 
+# What a lame problem, I feel like I cheated. It only generated two numbers in
+# under a minute and their sum turned out to be the answer. 
 
 def fact(n):
    if n > 0:
